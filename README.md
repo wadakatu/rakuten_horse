@@ -28,8 +28,8 @@ https://chromedriver.chromium.org/downloads
 
 ### 3. クレデンシャル情報設定
 
-config.pyを開いて、各種クレデンシャル情報を入力してください。
-Slack系に関しては、入力しても入力しなくても大丈夫です。
+config.pyを開いて、各種クレデンシャル情報を入力してください。<br>
+Slack系に関しては、入力しても入力しなくても大丈夫です。<br>
 Slackアプリ設定方法は[こちら](https://api.slack.com/messaging/webhooks)
 
 ```
