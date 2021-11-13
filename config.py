@@ -4,5 +4,5 @@ CONFIG = {
     'pinCode': 1111,
     'amountOfMoney': 100,
     'slack': 'https://hooks.slack.com/services/test_token',
-    'slackUser': 'U01189LMZGE'
+    'slackUser': '12345ABCDE'
 }

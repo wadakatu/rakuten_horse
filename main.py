@@ -32,10 +32,10 @@ class Main:
           driver.find_element_by_class_name("modal").click()
           time.sleep(3)
 
-          action.InsertMoney(driver)
+          action.inputMoney(driver)
           time.sleep(5)
 
-          action.InsertPinCode(driver)
+          action.inputPinCode(driver)
           time.sleep(3)
           
       except Exception as e:
