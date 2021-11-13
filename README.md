@@ -1,7 +1,7 @@
 # 楽天競馬自動入金ツール
 
 楽天競馬に毎日入金するのを自動化しました。<br>
-[Qiita]()
+[Qiita](https://qiita.com/wadakatu/items/867640340564e571e8f7)
 
 ## 使い方
 
