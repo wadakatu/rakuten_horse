@@ -39,7 +39,7 @@ CONFIG = {
     'pinCode': 1111, #楽天銀行のPIN番号
     'amountOfMoney': 100, #入金金額
     'slack': 'https://hooks.slack.com/services/test_token', #Incoming WebhookのURL
-    'slackUser': 'U01189LMZGE' #DM送信先のユーザーID（slack）
+    'slackUser': '12345ABCDE' #DM送信先のユーザーID（slack）
 }
 ```
 
